@@ -6,9 +6,11 @@ git clone https://github.com/DannyNguyenCode/ShipVista.git <br>
 #### Linux
 cd ~/Desktop <br>
 git clone https://github.com/DannyNguyenCode/ShipVista.git <br>
+
+Open Visual Studio Code <br>
+Open terminal with ctrl + ~
 ## DATABASE
 #### How to Run Database <br>
-Open Visual Studio Code
 ### Windows
 cd C:\Users\giada\Desktop\ShipVista\DatabaseAPI\ | code . <br>
 dotnet run
