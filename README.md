@@ -13,7 +13,7 @@ Open terminal with ctrl + ~
 #### How to Run Database <br>
 ### Windows
 cd C:\Users\giada\Desktop\ShipVista\DatabaseAPI\ | code . <br>
-dotnet run
+dotnet run <br>
 Hosted on: https://localhost:5001/plants
 ### Linux
 cd ~/Desktop/ShipVista/DatabaseAPI/ && code . <br>
